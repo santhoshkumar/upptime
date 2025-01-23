@@ -1,6 +1,5 @@
-# Change these first
-owner: santhoshkumar # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: santhoshkumar
+repo: upptime
 
 sites:
   - name: santhosh veer blog
@@ -17,6 +16,14 @@ sites:
     url: https://score.santhoshveer.com/
   - name: TM Blog
     url: $TMBLOG
+  - name: VPN Server
+    check: "tcp-ping"
+    url: $VPN
+    port: 53
+  - name: AD Server
+    url: $AD
+  - name: Space
+    url: $SPACE
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -26,7 +33,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is the page which uses **real-time** data from [GitHub repository](https://github.com/santhoshkumar/uptime).
+  introMessage: This is the page which uses **real-time** data from [GitHub repository](https://github.com/santhoshkumar/upptime).
   navbar:
     - title: Status
       href: /upptime
