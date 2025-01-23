@@ -15,6 +15,8 @@ sites:
     url: https://quotes.tamilwords.net/
   - name: Alexa Score
     url: https://score.santhoshveer.com/
+  - name: TM Blog
+    url: $TMBLOG
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
