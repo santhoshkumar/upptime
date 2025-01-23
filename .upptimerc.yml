@@ -1,5 +1,5 @@
 # Change these first
-owner: mskian # Your GitHub organization or username, where this repository lives
+owner: santhoshkumar # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -32,10 +32,10 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 commitMessages:
-  commitAuthorName: "mskian"
-  commitAuthorEmail: "10300271+mskian@users.noreply.github.com"
+  commitAuthorName: "santhoshkumar"
+  commitAuthorEmail: "73682254+santhoshkumar@users.noreply.github.com"
 
-user-agent: mskian
+user-agent: santhoshkumar
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
