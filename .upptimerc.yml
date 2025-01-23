@@ -11,6 +11,10 @@ sites:
     url: https://kavithai.site
   - name: Cricket Score
     url: https://cricketblog.pages.dev/
+  - name: Quotes Status and Wishes
+    url: https://quotes.tamilwords.net/
+  - name: Alexa Score
+    url: https://score.santhoshveer.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,7 +27,7 @@ status-website:
   introMessage: This is the page which uses **real-time** data from [GitHub repository](https://github.com/mskian/uptime).
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
