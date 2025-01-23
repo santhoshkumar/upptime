@@ -7,10 +7,10 @@ sites:
     url: https://santhoshveer.com
   - name: Itrendbuzz
     url: https://itrendbuzz.com
-  - name: Allwebtuts
-    url: https://www.allwebtuts.com
   - name: kavithai site
     url: https://kavithai.site
+  - name: Cricket Score
+    url: https://cricketblog.pages.dev/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
