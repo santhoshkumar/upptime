@@ -22,10 +22,10 @@
     "url": "https://itrendbuzz.com",
     "icon": "https://icons.duckduckgo.com/ip3/itrendbuzz.com.ico",
     "slug": "itrendbuzz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 702,
@@ -33,16 +33,18 @@
     "timeWeek": 748,
     "timeMonth": 702,
     "timeYear": 702,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 1
+    }
   },
   {
     "name": "kavithai site",
     "url": "https://kavithai.site",
     "icon": "https://icons.duckduckgo.com/ip3/kavithai.site.ico",
     "slug": "kavithai-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 548,
     "timeMonth": 515,
     "timeYear": 515,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 0
+    }
   },
   {
     "name": "Cricket Score",
