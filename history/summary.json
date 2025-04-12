@@ -76,19 +76,19 @@
     "url": "https://quotes.tamilwords.net/",
     "icon": "https://icons.duckduckgo.com/ip3/quotes.tamilwords.net.ico",
     "slug": "quotes-status-and-wishes",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 744,
-    "timeWeek": 352,
-    "timeMonth": 261,
-    "timeYear": 220,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 219,
+    "timeDay": 464,
+    "timeWeek": 331,
+    "timeMonth": 259,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2025-04-12": 0
+      "2025-04-12": 20
     }
   },
   {
