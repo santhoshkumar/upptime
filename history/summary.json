@@ -172,19 +172,19 @@
     "url": "$SPACE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "space",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 246,
-    "timeWeek": 297,
-    "timeMonth": 314,
+    "timeDay": 241,
+    "timeWeek": 290,
+    "timeMonth": 311,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2025-06-09": 0
+      "2025-06-09": 6
     }
   },
   {
