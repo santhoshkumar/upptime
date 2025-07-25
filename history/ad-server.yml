@@ -1,7 +1,7 @@
 url: $AD
-status: down
-code: 502
-responseTime: 756
-lastUpdated: 2025-07-25T06:53:09.280Z
+status: up
+code: 200
+responseTime: 958
+lastUpdated: 2025-07-25T07:45:53.743Z
 startTime: 2025-01-23T11:08:29.588Z
 generator: Upptime <https://github.com/upptime/upptime>
