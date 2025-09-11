@@ -13,7 +13,7 @@
     "time": 743,
     "timeDay": 696,
     "timeWeek": 785,
-    "timeMonth": 727,
+    "timeMonth": 724,
     "timeYear": 743,
     "dailyMinutesDown": {
       "2025-07-20": 56
@@ -54,7 +54,7 @@
     "time": 535,
     "timeDay": 595,
     "timeWeek": 615,
-    "timeMonth": 585,
+    "timeMonth": 580,
     "timeYear": 535,
     "dailyMinutesDown": {}
   },
@@ -72,7 +72,7 @@
     "time": 145,
     "timeDay": 186,
     "timeWeek": 186,
-    "timeMonth": 173,
+    "timeMonth": 174,
     "timeYear": 145,
     "dailyMinutesDown": {}
   },
@@ -90,7 +90,7 @@
     "time": 243,
     "timeDay": 208,
     "timeWeek": 235,
-    "timeMonth": 256,
+    "timeMonth": 257,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2025-07-24": 33,
@@ -114,7 +114,7 @@
     "time": 558,
     "timeDay": 546,
     "timeWeek": 584,
-    "timeMonth": 582,
+    "timeMonth": 577,
     "timeYear": 558,
     "dailyMinutesDown": {}
   },
@@ -132,7 +132,7 @@
     "time": 1112,
     "timeDay": 1221,
     "timeWeek": 1039,
-    "timeMonth": 1132,
+    "timeMonth": 1131,
     "timeYear": 1112,
     "dailyMinutesDown": {}
   },
@@ -168,7 +168,7 @@
     "time": 743,
     "timeDay": 870,
     "timeWeek": 902,
-    "timeMonth": 918,
+    "timeMonth": 921,
     "timeYear": 743,
     "dailyMinutesDown": {
       "2025-07-25": 53
@@ -179,19 +179,19 @@
     "url": "$SPACE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "space",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.93%",
-    "time": 292,
-    "timeDay": 281,
-    "timeWeek": 311,
-    "timeMonth": 297,
-    "timeYear": 292,
+    "time": 291,
+    "timeDay": 230,
+    "timeWeek": 291,
+    "timeMonth": 296,
+    "timeYear": 291,
     "dailyMinutesDown": {
-      "2025-09-11": 0,
+      "2025-09-11": 7,
       "2025-07-22": 24,
       "2025-06-19": 105,
       "2025-06-18": 1,
@@ -214,7 +214,7 @@
     "time": 425,
     "timeDay": 402,
     "timeWeek": 434,
-    "timeMonth": 438,
+    "timeMonth": 435,
     "timeYear": 425,
     "dailyMinutesDown": {}
   }
