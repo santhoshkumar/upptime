@@ -27,12 +27,12 @@
     "slug": "itrendbuzz",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.87%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 742,
-    "timeDay": 729,
+    "timeDay": 813,
     "timeWeek": 738,
     "timeMonth": 717,
     "timeYear": 742,
@@ -47,9 +47,9 @@
     "url": "https://kavithai.site",
     "icon": "https://icons.duckduckgo.com/ip3/kavithai.site.ico",
     "slug": "kavithai-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -58,7 +58,9 @@
     "timeWeek": 571,
     "timeMonth": 562,
     "timeYear": 537,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-28": 0
+    }
   },
   {
     "name": "Cricket Score",
