@@ -4,18 +4,19 @@
     "url": "https://santhoshveer.com",
     "icon": "https://icons.duckduckgo.com/ip3/santhoshveer.com.ico",
     "slug": "santhosh-veer-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 740,
-    "timeDay": 543,
-    "timeWeek": 730,
-    "timeMonth": 746,
-    "timeYear": 740,
+    "time": 738,
+    "timeDay": 428,
+    "timeWeek": 665,
+    "timeMonth": 727,
+    "timeYear": 738,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-10-07": 16,
       "2025-07-20": 56
     }
@@ -27,9 +28,9 @@
     "slug": "itrendbuzz",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 739,
     "timeDay": 439,
@@ -37,7 +38,7 @@
     "timeMonth": 715,
     "timeYear": 739,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 7,
       "2025-10-27": 16,
       "2025-07-20": 56,
       "2025-05-02": 16
@@ -48,19 +49,19 @@
     "url": "https://kavithai.site",
     "icon": "https://icons.duckduckgo.com/ip3/kavithai.site.ico",
     "slug": "kavithai-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 539,
-    "timeDay": 227,
-    "timeWeek": 517,
-    "timeMonth": 568,
+    "timeDay": 306,
+    "timeWeek": 511,
+    "timeMonth": 565,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 6
     }
   },
   {
@@ -70,9 +71,9 @@
     "slug": "cricket-score",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 148,
     "timeDay": 127,
@@ -80,7 +81,7 @@
     "timeMonth": 166,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 7
     }
   },
   {
@@ -114,18 +115,20 @@
     "url": "https://score.santhoshveer.com/",
     "icon": "https://icons.duckduckgo.com/ip3/score.santhoshveer.com.ico",
     "slug": "alexa-score",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 556,
-    "timeDay": 397,
-    "timeWeek": 506,
-    "timeMonth": 559,
-    "timeYear": 556,
-    "dailyMinutesDown": {}
+    "time": 555,
+    "timeDay": 334,
+    "timeWeek": 470,
+    "timeMonth": 547,
+    "timeYear": 555,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "TM Blog",
@@ -134,9 +137,9 @@
     "slug": "tm-blog",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1086,
     "timeDay": 621,
@@ -144,7 +147,7 @@
     "timeMonth": 980,
     "timeYear": 1086,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 7
     }
   },
   {
