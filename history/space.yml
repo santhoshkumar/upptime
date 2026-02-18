@@ -1,7 +1,7 @@
 url: $SPACE
-status: down
-code: 415
-responseTime: 248
-lastUpdated: 2026-02-18T19:11:11.724Z
+status: up
+code: 200
+responseTime: 252
+lastUpdated: 2026-02-18T19:53:46.656Z
 startTime: 2025-01-23T11:08:30.587Z
 generator: Upptime <https://github.com/upptime/upptime>
