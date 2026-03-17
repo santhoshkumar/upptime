@@ -8,24 +8,20 @@ sites:
     url: https://itrendbuzz.com
   - name: kavithai site
     url: https://kavithai.site
-  - name: Cricket Score
-    url: https://cricketblog.pages.dev/
+  - name: Tamil Kadhal
+    url: https://kadhal.tamilwords.net
   - name: Quotes Status and Wishes
-    url: https://quotes.tamilwords.net/
-  - name: Alexa Score
-    url: https://score.santhoshveer.com/
+    url: https://quotes.tamilwords.net
+  - name: Allwebtuts
+    url: https://www.allwebtuts.com
+  - name: Sanweb
+    url: https://sanweb.info
   - name: TM Blog
     url: $TMBLOG
   - name: VPN Server
     check: "tcp-ping"
     url: $VPN
     port: 53
-  - name: AD Server
-    url: $AD
-  - name: Space
-    url: $SPACE
-  - name: API Driver
-    url: $APIDRIVER
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
