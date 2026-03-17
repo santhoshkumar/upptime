@@ -12,8 +12,10 @@ sites:
     url: https://kadhal.tamilwords.net
   - name: Quotes Status and Wishes
     url: https://quotes.tamilwords.net
-  - name: Allwebtuts
-    url: https://www.allwebtuts.com
+  - name: Random Words
+    url: https://random.sanweb.info
+  - name: Daily kavithai
+    url: https://random.kavithai.site
   - name: Sanweb
     url: https://sanweb.info
   - name: TM Blog
