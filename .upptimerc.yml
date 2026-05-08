@@ -34,11 +34,15 @@ status-website:
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is the page which uses **real-time** data from [GitHub repository](https://github.com/santhoshkumar/upptime).
+  metaTags:
+    - name: "robots"
+      content: "noindex"
   navbar:
     - title: Status
       href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+ robotsText: "User-agent: * \n Disallow: /"
 
 commitMessages:
   commitAuthorName: "santhoshkumar"
