@@ -29,11 +29,6 @@ sites:
   - name: TM Blog
     url: $TMBLOG
 
-  - name: VPN Server
-    check: "tcp-ping"
-    url: $VPN
-    port: 53
-
 status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
