@@ -1,7 +1,7 @@
 url: $TMBLOG
-status: up
-code: 200
-responseTime: 1147
-lastUpdated: 2026-06-15T00:02:07.939Z
+status: down
+code: 522
+responseTime: 19374
+lastUpdated: 2026-06-15T13:34:12.069Z
 startTime: 2025-01-23T06:27:55.472Z
 generator: Upptime <https://github.com/upptime/upptime>
