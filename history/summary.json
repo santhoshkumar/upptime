@@ -164,21 +164,21 @@
     "url": "$TMBLOG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tm-blog",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 1176,
-    "timeDay": 10278,
-    "timeWeek": 3456,
-    "timeMonth": 1675,
-    "timeYear": 1203,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "83.74%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.88%",
+    "time": 1177,
+    "timeDay": 7244,
+    "timeWeek": 3202,
+    "timeMonth": 1660,
+    "timeYear": 1202,
     "dailyMinutesDown": {
       "2025-11-18": 128,
       "2026-06-15": 277,
-      "2026-09-24": 0
+      "2026-09-24": 234
     }
   }
 ]
